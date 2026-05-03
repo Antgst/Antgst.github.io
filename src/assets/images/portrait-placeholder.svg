@@ -1,0 +1,15 @@
+<svg width="780" height="920" viewBox="0 0 780 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="780" height="920" rx="76" fill="#161B22"/>
+  <circle cx="604" cy="158" r="240" fill="#58A6FF" fill-opacity=".14"/>
+  <circle cx="170" cy="745" r="260" fill="#C9A96E" fill-opacity=".12"/>
+  <path d="M134 728C174 584 258 513 390 513C522 513 606 584 646 728V920H134V728Z" fill="#0D1117"/>
+  <path d="M224 739C256 629 312 574 390 574C468 574 524 629 556 739" stroke="#58A6FF" stroke-width="5" stroke-opacity=".45"/>
+  <circle cx="390" cy="335" r="152" fill="#0D1117"/>
+  <path d="M250 344C272 239 324 186 405 186C493 186 546 247 544 345C541 466 475 527 390 527C302 527 236 457 250 344Z" fill="#202A37"/>
+  <path d="M278 299C321 222 386 190 473 204C535 229 565 284 562 369C548 292 507 253 439 252C364 250 310 266 278 299Z" fill="#0D1117"/>
+  <path d="M280 576C332 612 386 621 442 604C484 591 517 568 542 535" stroke="#C9A96E" stroke-width="4" stroke-linecap="round" stroke-opacity=".55"/>
+  <rect x="144" y="112" width="492" height="696" rx="52" stroke="#F0F6FC" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M164 790L616 116" stroke="#58A6FF" stroke-opacity=".2"/>
+  <path d="M212 824L664 150" stroke="#C9A96E" stroke-opacity=".18"/>
+  <text x="390" y="840" text-anchor="middle" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="24">portrait placeholder</text>
+</svg>

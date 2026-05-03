@@ -1,0 +1,24 @@
+:root {
+  color-scheme: dark;
+
+  --color-bg: #0d1117;
+  --color-bg-secondary: #161b22;
+  --color-bg-elevated: rgba(22, 27, 34, 0.78);
+  --color-text: #f0f6fc;
+  --color-muted: #8b949e;
+  --color-border: rgba(240, 246, 252, 0.12);
+
+  --accent-blue: #58a6ff;
+  --accent-gold: #c9a96e;
+  --accent-green: #7ee787;
+
+  --font-title: "Space Grotesk", system-ui, sans-serif;
+  --font-text: "Inter", system-ui, sans-serif;
+  --font-code: "JetBrains Mono", ui-monospace, monospace;
+
+  --container: min(1120px, calc(100vw - 40px));
+  --radius-lg: 28px;
+  --radius-md: 18px;
+  --shadow-soft: 0 24px 80px rgba(0, 0, 0, 0.38);
+  --transition-fast: 180ms ease;
+}
